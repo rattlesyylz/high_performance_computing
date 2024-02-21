@@ -1,0 +1,1 @@
+An introduction to HPC techniques involving computer programming, algorithms, and analysis for data and scientific applications will be covered in this course. Include Threaded Elevator Scheduler System in C++.
